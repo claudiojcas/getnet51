@@ -53,7 +53,7 @@
 
       <div>
         <q-btn label="Registrar" type="submit" color="primary"/>
-        <q-btn label="Reset" type="reset" color="primary" flat class="q-ml-sm" />
+        <q-btn label="Cancelar" type="reset" color="primary" flat class="q-ml-sm" to="/"/>
       </div>
     </q-form>
 
