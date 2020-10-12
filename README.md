@@ -1,26 +1,27 @@
-# Quasar App (netget51)
+# Getnet51 (VueJS App)
 
-A Quasar Framework app
+**Super g v1.0** - Hackaton Getnet 2020 - Team 51
 
-## Install the dependencies
+## Instale as dependências após ter clonado/baixado o código.
 ```bash
 yarn
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+### Inicie o aplicativo no modo de desenvolvimento (recarregamento de hot-code, relatório de erros etc.)
 ```bash
 quasar dev
 ```
 
-### Lint the files
+### Lint os arquivos
 ```bash
 yarn run lint
 ```
 
-### Build the app for production
+### Crie o aplicativo para produção
 ```bash
-quasar build
+quasar build -m wpa
 ```
+Depois de gerado é só utlizar o conteudo do diretório **dist/wpa**.
 
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+### Personalize e/ou configure
+Veja [Configurando quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
