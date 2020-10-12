@@ -55,7 +55,7 @@
           </q-item-section>
         </q-item>
 
-        <q-item to="/config">
+        <q-item to="/register">
           <q-item-section top avatar>
             <q-avatar color="primary" text-color="white" icon="bluetooth" />
           </q-item-section>
