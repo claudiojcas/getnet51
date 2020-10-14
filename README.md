@@ -1,11 +1,6 @@
 # Getnet51 (VueJS App)
 **Super get v1.50** - Hackaton Getnet 2020 - Team 51
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
 
 Os comando abaixo consideram que você já tem instalado o NodeJS e o Yarn, ambos em última versões. Pois não iremos entrar em detalhes desse.
 
@@ -50,10 +45,11 @@ Veja [Configurando quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js)
 
 ---
 ### Autores
-|_Vitor Botelho_|[vitor@botpet.net](mailto:vitor@botpet.net)|[Github](https://github.com/Homunculo)|
-|---|---|---|
-|_Carine Zanotto_|[camensagem@gmail.com](mailto:camensagem@gmail.com)| |
-|_Andréia Bujnicki_|[andreabujnickivieira@gmail.com](mailto:andreabujnickivieira@gmail.com)| |
-|_Guilherme Miranda_|[guilherme@mobiler.com.br](mailto:guilherme@mobiler.com.br)| |
-|_Cláudio Souza_|[claudio.jcas@gmail.com](mailto:claudio.jcas@gmail.com)|[Github](https://github.com/claudiojcas)|
+<pre>
+_Vitor Botelho_     [vitor@botpet.net](mailto:vitor@botpet.net)  |  [Github](https://github.com/Homunculo)
+_Carine Zanotto_    [camensagem@gmail.com](mailto:camensagem@gmail.com)
+_Andréia Bujnicki_  [andreabujnickivieira@gmail.com](mailto:andreabujnickivieira@gmail.com)
+_Guilherme Miranda_ [guilherme@mobiler.com.br](mailto:guilherme@mobiler.com.br)
+_Cláudio Souza_     [claudio.jcas@gmail.com](mailto:claudio.jcas@gmail.com)  |  [Github](https://github.com/claudiojcas)
+</pre>
 
