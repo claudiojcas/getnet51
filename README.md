@@ -1,6 +1,11 @@
 # Getnet51 (VueJS App)
 **Super get v1.50** - Hackaton Getnet 2020 - Team 51
 
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
 Os comando abaixo consideram que você já tem instalado o NodeJS e o Yarn, ambos em última versões. Pois não iremos entrar em detalhes desse.
 
