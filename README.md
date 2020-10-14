@@ -45,10 +45,9 @@ Veja [Configurando quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js)
 
 ---
 ### Autores
-| <span style="font-weight:normal">_Vitor Botelho_</span> | <span style="font-weight:normal">[vitor@botpet.net](mailto:vitor@botpet.net)</span> | <span style="font-weight:normal">[Github](https://github.com/Homunculo)</span> |
-|---|---|---|
-| _Carine Zanotto_ | [camensagem@gmail.com](mailto:camensagem@gmail.com) |   |
-| _Andréia Bujnicki_ | [andreabujnickivieira@gmail.com](mailto:andreabujnickivieira@gmail.com) |   |
-| _Guilherme Miranda_ | [guilherme@mobiler.com.br](mailto:guilherme@mobiler.com.br) |   |
-| _Cláudio Souza_ | [claudio.jcas@gmail.com](mailto:claudio.jcas@gmail.com) | [Github](https://github.com/claudiojcas) |
+_Vitor Botelho_ - [vitor@botpet.net](mailto:vitor@botpet.net) | [Github](https://github.com/Homunculo)
+_Carine Zanotto_ - [camensagem@gmail.com](mailto:camensagem@gmail.com)
+_Andréia Bujnicki_ - [andreabujnickivieira@gmail.com](mailto:andreabujnickivieira@gmail.com)
+_Guilherme Miranda_ - [guilherme@mobiler.com.br](mailto:guilherme@mobiler.com.br)
+_Cláudio Souza_ - [claudio.jcas@gmail.com](mailto:claudio.jcas@gmail.com) | [Github](https://github.com/claudiojcas)
 
