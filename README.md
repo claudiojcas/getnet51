@@ -10,7 +10,7 @@ Os comando abaixo consideram que você já tem instalado o NodeJS e o Yarn, ambo
 yarn
 ```
 
-### Inicie o aplicativo no modo de desenvolvimento (_recarregamento de hot-code, relatório de erros, etc._)
+### Caso queira, inicie o aplicativo no modo de desenvolvimento (_recarregamento de hot-code, relatório de erros, etc._)
 ```bash
 quasar dev -m pwa
 ```
@@ -22,7 +22,7 @@ yarn run lint
 
 ### Crie o aplicativo para produção
 ```bash
-quasar build -m wpa
+quasar build -m pwa
 ```
 
 > ##### Dica: 
