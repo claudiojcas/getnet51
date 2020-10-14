@@ -51,6 +51,7 @@ Veja [Configurando quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js)
 ---
 ### Autores
 |_Vitor Botelho_|[vitor@botpet.net](mailto:vitor@botpet.net)|[Github](https://github.com/Homunculo)|
+|---|---|---|
 |_Carine Zanotto_|[camensagem@gmail.com](mailto:camensagem@gmail.com)| |
 |_Andréia Bujnicki_|[andreabujnickivieira@gmail.com](mailto:andreabujnickivieira@gmail.com)| |
 |_Guilherme Miranda_|[guilherme@mobiler.com.br](mailto:guilherme@mobiler.com.br)| |
