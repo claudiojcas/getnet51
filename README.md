@@ -45,6 +45,5 @@ Veja [Configurando quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js)
 
 ---
 ### Autores: 
-[Victor Botelho](https://github.com/Homunculo)
-[Cláudio Souza](https://github.com/claudiojcas)
+[Victor Botelho](https://github.com/Homunculo) e [Cláudio Souza](https://github.com/claudiojcas)
 
