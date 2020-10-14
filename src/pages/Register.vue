@@ -1,7 +1,7 @@
 <template>
   <q-page class="flex flex-center text-accent">
   <div class="q-pa-md" style="max-width: 600px">
-    <h3 class="text-center">REGISTRO</h3>
+    <h3 class="text-center">Cadastre-se</h3>
 
     <q-form
       @submit="onSubmit"
@@ -25,7 +25,7 @@
         lazy-rules
         :rules="[
           val => val !== null && val !== '' || 'É obrigatório informar o CPF.',
-          val => val > 0 && val < 100 || 'O CPF é invĺido!'
+          val => val > 0 && val < 99999999999 || 'O CPF é invĺido!'
         ]"
       />
 

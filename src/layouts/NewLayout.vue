@@ -25,43 +25,28 @@
           header
           class="text-grey-8"
         >
-          Opções
         </q-item-label>
 
-        <q-item to="/enderecos">
-          <q-item-section top avatar>
-            <q-avatar color="primary" text-color="white" icon="bluetooth" />
-          </q-item-section>
-          <q-item-section>
-            <q-item-label>Endereços</q-item-label>
-            <q-item-label caption lines="2">Adiciona/Altera Endereços.</q-item-label>
-          </q-item-section>
-          <q-item-section side top>
-            <q-item-label caption>1</q-item-label>
-            <q-icon name="star" color="yellow" />
-          </q-item-section>
-        </q-item>
-
-        <q-item to="/lista">
+        <q-item to="/storeselect">
           <q-item-section top avatar>
             <q-avatar color="primary" text-color="white" icon="add_shopping_cart" />
           </q-item-section>
           <q-item-section>
-            <q-item-label>Lista</q-item-label>
-            <q-item-label caption lines="2">Cria/Altera Lista de compras.</q-item-label>
+            <q-item-label>Comprar</q-item-label>
+            <q-item-label caption lines="2">Realize suas compras</q-item-label>
           </q-item-section>
           <q-item-section side top>
-            <q-item-label caption>2</q-item-label>
+            <q-item-label caption></q-item-label>
           </q-item-section>
         </q-item>
 
         <q-item to="/register">
           <q-item-section top avatar>
-            <q-avatar color="primary" text-color="white" icon="bluetooth" />
+            <q-avatar color="primary" text-color="white" icon="group_add" />
           </q-item-section>
           <q-item-section>
-            <q-item-label>Configurações</q-item-label>
-            <q-item-label caption lines="2">Atualiza as configurações.</q-item-label>
+            <q-item-label>Cadastro</q-item-label>
+            <q-item-label caption lines="2">Crie seu usuário na Super GetNet</q-item-label>
           </q-item-section>
         </q-item>
 
