@@ -1,9 +1,15 @@
 # Getnet51 (VueJS App)
 **Super get v1.50** - Hackaton Getnet 2020 - Team 51
 
-Baixe ou Clone o repositório via **git**.
-> Os comando abaixo consideram que você já tem instalado o NodeJS e o Yarn, ambos em última versões. Pois não iremos entrar em detalhes desse.
+<br/>
 
+Baixe ou Clone o repositório via **git**.
+> Os comando abaixo consideram que você já tem instalado o NodeJS e o Yarn, ambos em última versões. Pois não iremos entrar em detalhes desses.
+
+## Assece o diretorio criado pelo "git clone" ou extraido do download
+```bash
+cd getnet51
+```
 
 ## Instale as dependências após ter clonado/baixado o código
 ```bash
@@ -27,13 +33,13 @@ quasar build -m pwa
 
 > ##### Dica: 
 >    Os arquivos criados em "dist/pwa" devem ser servidos atravez de um servidor HTTP.
->    Abrir o "index.html" sobre direto no navegador não funcionará!
+>    Abrir o "index.html" direto no navegador não funcionará!
 
 > ##### Dica: 
->    Você pode usar o comando abaixo para criar um servidor web, tanto para teste ou produção.
+>    Você pode usar o comando abaixo para criar um servidor web, para teste ou produção.
 >    Se você estiver usando o modo "histórico" do Vue Router, não se esqueça de especifique o parâmetro "--history".
 
-### Iniciando a aplicação atravez servidor próprio
+### Iniciando a aplicação atravez do servidor próprio
 ```bash
 quasar serve dist/pwa -s -o
 ```
@@ -41,7 +47,7 @@ quasar serve dist/pwa -s -o
 ### Personalize e/ou configure
 Veja [Configurando quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
 
-
+<br/>
 
 ---
 ### Autores
